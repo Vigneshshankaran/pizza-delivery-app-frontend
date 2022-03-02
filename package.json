@@ -45,6 +45,5 @@
       "last 1 safari version"
     ]
   },
-  "path": "/api",
-  "proxy": "https://pizza-delivery-app-backend.herokuapp.com/"
+  "proxy": "https://cors-anywhere.herokuapp.com/https://pizza-delivery-app-backend.herokuapp.com/"
 }
